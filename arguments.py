@@ -16,5 +16,5 @@ def store() -> None:
     print("Quantity: ",q)
     print("Price: ",p)
 
-    if __name__=='__main__': 	
+if __name__=='__main__': 	
      store()
